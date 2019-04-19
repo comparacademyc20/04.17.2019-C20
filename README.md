@@ -6,4 +6,4 @@
   - Box-sizing: border-box
   - Overflow
   
-  *Xoş həftəsonu.*
+
